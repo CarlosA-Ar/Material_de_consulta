@@ -1,0 +1,27 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Bienvenido a Material de Consulta",
+    "description": "Esperamos que disfrutes del material disponible para compartir y generar conocimiento.",
+    "author": [
+      {
+        "name": "Yanely L. G.",
+        "url": "https://teoria-de-riesgo.netlify.app/"
+      },
+      {
+        "name": "Carlos A. Ar.",
+        "url": {}
+      },
+      {
+        "name": "Eduardo M. M.",
+        "url": {}
+      }
+    ],
+    "date": "2021-04-29",
+    "categories": [],
+    "contents": "\r\nEste sitio tiene la finalidad de guardar el conocimiento de las herramientas necesarias para el desarrollo de material en R en términos de documentación, presentaciones (xaringan, flexdashboard, RMarkdown, learnr próximamente ) así como una herramienta que permite trabajar con código en equipo de manera remota.\r\nSe ha creado el sitio desde marzo de 2021, su fundamento está en el desarrollo del Servicio Social en la Facultad de Ciencias de la UNAM con la guía de Eduardo S. M. M. y la implementación de Yanely L.G. y Carlos A. A.\r\nLa información aquí vertida está referenciada para consultas de mayor alcance.\r\nEsperamos que te agrade.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-04-29T13:13:04-05:00",
+    "input_file": "welcome.utf8.md"
+  }
+]

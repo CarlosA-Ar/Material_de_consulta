@@ -7,6 +7,6 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "Cómo usar este sitio"
       href: about.html
 output: distill::distill_article
